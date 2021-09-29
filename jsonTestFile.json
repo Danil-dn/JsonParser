@@ -1,0 +1,17 @@
+{
+  "name": "Director",
+  "people": [
+    {
+      "name": "employee 1",
+      "age": 32
+    },
+    {
+      "name": "employee 2",
+      "age": 27
+    },
+    {
+      "name":"employee 3",
+      "age": 44
+    }
+  ]
+}
